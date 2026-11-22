@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DynamicStack.vcxproj" Id="6298c879-a603-4c26-b515-476bf3db6d3f" />
+</Solution>
